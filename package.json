@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muryithe/Audio-presets.git"
+    "url": "git+https://github.com/muryithe/my-eq-presets.git"
   },
-  "author": "muryithe",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/muryithe/Audio-presets/issues"
+    "url": "https://github.com/muryithe/my-eq-presets/issues"
   },
-  "homepage": "https://github.com/muryithe/Audio-presets#readme"
+  "homepage": "https://github.com/muryithe/my-eq-presets#readme"
 }

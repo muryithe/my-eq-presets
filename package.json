@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_USERNAME/my-eq-presets.git"
+    "url": "git+https://github.com/muryithe/my-eq-presets.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/my-eq-presets/issues"
+    "url": "https://github.com/muryithe/my-eq-presets/issues"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/my-eq-presets#readme"
+  "homepage": "https://github.com/muryithe/my-eq-presets#readme"
 }
